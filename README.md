@@ -2,11 +2,11 @@
 
 A full-stack MRV system that digitizes Measurement, Reporting, and Verification (MRV) using drones, machine learning (for NDVI, canopy and biomass estimation), smart contracts on the Polygon blockchain, IPFS for evidence storage, and a combined mobile field application with a web-based verification dashboard, ensuring tamper-proof, auditable, and transparent carbon accounting while preventing fake or duplicated carbon credits.
 
-    <img width="707" height="543" alt="image" src="https://github.com/user-attachments/assets/47112693-d9b5-470b-8a70-936f02073a60" />
-My contribution to the BlueCarbon Registry project by developing the application/frontend layer for a digital platform focused on registering and managing blue carbon ecosystem projects. Built responsive UI components, implemented user workflows for project data entry and management, integrated frontend with backend services, and improved overall usability of the application.
+    
+
 # 📱 React Native Mobile App (Field Data Collection)
 
-The React Native mobile application is designed for field officers, surveyors, and project developers working on mangrove and blue carbon restoration activities. It enables them to efficiently collect, upload, and verify ecological and geospatial data directly from the field.
+MY contribution for the project was developing The React Native mobile application , designed for field officers, surveyors, and project developers working on mangrove and blue carbon restoration activities. It enables them to efficiently collect, upload, and verify ecological and geospatial data directly from the field.
 
 ### 🔧 Features
 - **Secure Login & Identity**  
@@ -26,8 +26,6 @@ The React Native mobile application is designed for field officers, surveyors, a
 
 - **Track MRV & CID Trail**  
   Officers can monitor MRV status, review stored records, and access IPFS Content IDs (CIDs) linked to blockchain transactions.
-
----
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
